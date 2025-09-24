@@ -30,4 +30,17 @@ img{
 		padding-left: 30px!important;
 		padding-right: 30px!important;
 	}
+	
+.map-container {
+  display: flex;
+  justify-content: center; /* centers the map horizontally */
+  margin-top: 20px;
+}
+
+.map-container iframe {
+  max-width: 100%; /* make it responsive */
+  height: 450px;
+  border: 0;
+  border-radius: 8px; /* optional: rounded corners */
+}
 }
