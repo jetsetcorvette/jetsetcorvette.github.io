@@ -127,7 +127,7 @@ form input:not([type="submit"]), form textarea { padding: 20px 20px; background:
 
 .section-title { text-align: center; font-size: 48px; font-size: 3rem; text-transform: uppercase; color: #787377; margin: 0 0 50px; font-weight: 300; font-family: "Novecento Sans", "Open Sans", sans-serif; }
 
-.button { padding: 10px 20px; margin-bottom: 30px; border: 2px solid #cc7250; position: relative; color: #cc7250; font-family: "Novecento Sans", "Open Sans", sans-serif; font-weight: 600; font-size: 12px; font-size: 0.75rem; text-transform: uppercase; -webkit-transition: .3s ease; transition: .3s ease; }
+.button { padding: 10px 20px; margin-bottom: 30px; border: 2px solid #cc7250; position: relative; color: #cc7250; background-color: #000; font-family: "Novecento Sans", "Open Sans", sans-serif; font-weight: 600; font-size: 12px; font-size: 0.75rem; text-transform: uppercase; -webkit-transition: .3s ease; transition: .3s ease; }
 .button:hover { color: #f7d0c2; border-color: #f7d0c2; }
 .button.no-gradient { border: 2px solid #2c282c; color: #2c282c; }
 .button.no-gradient:hover { border-color: #cc7250; color: #cc7250; }
